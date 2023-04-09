@@ -20,9 +20,6 @@
 #https://github.com/pyrogram/pyrogram/blob/4f585c156c1a2c6707793a8ad7f2f111515ca23b/pyrogram/client.py#L492-L518
 #https://github.com/pyrogram/pyrogram/blob/4f585c156c1a2c6707793a8ad7f2f111515ca23b/pyrogram/client.py#L806-1044
 
-#Pyrogram downloader modified to suit my needs. 
-#Downloads the file from telegram servers and retures the path of the file without waiting for the whole download to finish.
-#Copyright (C) @subinps
 
 
 from .logger import LOGGER
